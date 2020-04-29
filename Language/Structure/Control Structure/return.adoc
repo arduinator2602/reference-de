@@ -23,7 +23,7 @@ Beendet eine Funktion und gibt einen Wert an die aufrufende Funktion zurück, we
 
 [float]
 === Syntax
-`return` +
+`return;` +
 `return value; // Beide Formen davon sind gültig`
 
 
